@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I'm adding screenshots of my project :)
+
+-> Home Page 
+![image](https://github.com/Tisha3107/NebulaNews/assets/100868235/399438d4-4627-4d73-bd29-9500b962aa49)
+
+-> Category Page 
+![image](https://github.com/Tisha3107/NebulaNews/assets/100868235/3f9f7f9d-6aed-4301-95a2-bef048ad3fc3)
+
+-> Contact Page
+![image](https://github.com/Tisha3107/NebulaNews/assets/100868235/711680f4-fefc-424e-bf7c-5045e315c443)
+
 ## Available Scripts
 
 In the project directory, you can run:
